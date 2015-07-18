@@ -18,7 +18,7 @@ This repository contains **Dockerfile** of [Ubuntu with VNC Server]
     `docker build --rm --no-cache icqparty/vncserver github.com/icqparty/vncserver`
 
 
-### Usage interativ
+### Usage interactive
 
     docker run  -it --rm -p 5901:5901 icqparty/vncserver
     
