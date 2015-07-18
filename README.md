@@ -28,3 +28,5 @@ This repository contains **Dockerfile** of [Ubuntu with VNC Server]
 
 
 Connect to: `vnc://localhost:5901` via VNC client.
+
+    vncviewer 127.0.0.1:5901
